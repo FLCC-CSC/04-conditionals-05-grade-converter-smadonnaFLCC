@@ -1,8 +1,8 @@
 # FILE NAME - grade_converter.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Salvatore Madonna
+# DATE: 10/04/2025
+# BRIEF DESCRIPTION:  grade
 
 
 
@@ -85,7 +85,8 @@ D
 1. What is something you would tell a future student to be careful about when
    doing this lab?
 
-
+Although the code was there forget you see it and really try to figure it out yourself because you will be surprised 
+how difficult it could be if you don't fully understand the code.
 
 
 
